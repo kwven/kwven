@@ -1,6 +1,13 @@
 # 💫 About Me:
-I'm an aspiring Data Engineer from Morocco 🇲🇦, <br>currently in my first year of learning data engineering fundamentals.<br>I'm passionate about understanding how data systems work and building the skills to transform raw data into valuable insights.
+<h1 align="center">Hi 👋, I'm Ahmed Lamrani</h1>
+<h3 align="center">An aspiring Data Engineer from Morocco Rabat</h3>
 
+
+🌱 I'm currently learning Data Engineering fundamentals
+
+📚 Exploring databases, data processing, and ETL concepts
+
+🚀 Building my skills in programming and data analysis
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-lamrani-857970304/)
