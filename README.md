@@ -15,11 +15,6 @@ You can talk to me about -
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And more ⛺️🌱🏋🏽‍♂️!
 
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=kwven&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
 
 Connect with me:  
 
